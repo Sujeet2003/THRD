@@ -29,7 +29,7 @@ Product is evaluated based on **priority order** as:
 - **Problem**: `stock > 100` **&** `quantity_sold < 20`
 - **Solution**: Decrease price by **10%**
 
-### 4 – Minimum Profit Constraint
+### 4 – Minimum Profit
 - **Problem**: If new price < `cost_price * 1.2`
 - **Solution**: Set price to `cost_price * 1.2`
 
